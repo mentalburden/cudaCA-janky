@@ -1,5 +1,5 @@
 # cudaCA-janky
-Basic parallelized CA model built on top of CUDA Cpp
+Basic parallelized Cellular Automata model built on top of CUDA Cpp
 <BR>
 Example output gif here: https://i.imgur.com/crUks07.mp4
 <BR>
